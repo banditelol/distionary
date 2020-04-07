@@ -1,7 +1,9 @@
 from setuptools import setup
 
-setup(name='distributions',
+setup(name='distionary',
       version='0.1',
       description='Gaussian and Binomial distributions',
-      packages=['distributions'],
-      zip_safe=False)
+      packages=['distionary'],
+      zip_safe=False,
+      url='http://github.com/banditelol',
+      author_email='adityarputra@gmail.com')
